@@ -1,0 +1,2 @@
+# eternallogger
+A blog
