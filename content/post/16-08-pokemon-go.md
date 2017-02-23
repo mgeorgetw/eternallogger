@@ -6,7 +6,6 @@ slug = "16-08-pokemon-go"
 author = "黃樵志"
 draft = false
 tags = ["technology","augmented reality","game", "Pokémon GO"]
-image = "images/2016/16-08-pokemon-go.png"
 comments = false	# set false to hide Disqus
 share = true	# set false to hide share buttons
 menu= ""  # set "main" to add this content to the main menu
@@ -22,6 +21,8 @@ smartypants = true
 《Pokémon GO》在台灣推出剛滿二週，我也每天抽空抓怪抓了兩週。期間與朋友、家人、同事談的幾乎往往離不開Pokémon；走在路上隨時都會撞上其他的訓練師；從來沒見公園這麼熱鬧過。激烈的兩週過去，對於《Pokémon GO》與擴增實境（augumented reality，簡稱AR）頗有一些簡單的感想，在此做個記錄。
 
 <!--more-->
+
+![捷運上的寶可夢，2016](http://eternallogger.com/images/2016/16-08-pokemon-go.png)
 
 ### 一、AR與VR之間沒有戰爭
 
