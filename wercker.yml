@@ -7,3 +7,14 @@ build:
         theme: casper
         config: config.toml
         flags: --buildDrafts=true
+
+deploy:
+  steps:
+    # Deploy site to Amazon S3
+    - wercker/s3sync:
+        key-id: $AWS_ACCESS_KEY_ID
+        key-secret: $AWS_SECRET_ACCESS_KEY
+        bucket-url: $AWS_BUCKET_URL
+        source_dir: public/
+        delete-removed: true
+        opts: --acl-public --add-header=Cache-Control:max-age=2592000
