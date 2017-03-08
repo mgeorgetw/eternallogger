@@ -33,9 +33,10 @@ audio, canvas, video { display: inline-block; }
 audio:not([controls]) { display: none; height: 0; }
 [hidden], template { display: none; }
 html {
-   font-family: sans-serif;
-   -ms-text-size-adjust: 100%;
-   -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    font-size: 1em; /* 16px @ root em of 1 */
+    font-size: calc( 1em + (2.5 - 1) * ( (100vw - 20em) / ( 100 - 20) ));
 }
 body { margin: 0; }
 a { background: transparent; }
@@ -208,11 +209,13 @@ body {
 */
 
 ::-moz-selection {
-    background: #D6EDFF;
+    color: white;
+    background: #5F7894;
 }
 
 ::selection {
-    background: #D6EDFF;
+    color: white;
+    background: #5F7894;
 }
 
 h1, h2, h3,
@@ -945,25 +948,31 @@ body.nav-opened .menu-button .word {
     hyphens: auto;
 }
 
-/* Add a little circle in the middle of the border-bottom on our .post
+/* Add a little heart in the middle of the border-bottom on our .post
    just for the lolz and stylepoints. */
 .post:after {
     display: block;
-    content: "";
-    width: 7px;
-    height: 7px;
-    border: #E7EEF2 1px solid;
+    content: "❦";
+    color: #E7EEF2;
     position: absolute;
-    bottom: -5px;
+    bottom: -17px;
     left: 50%;
     margin-left: -5px;
     background: #FFF;
-    border-radius: 100%;
     box-shadow: #FFF 0 0 0 5px;
 }
 
 body:not(.post-template) .post-title {
     font-size: 3.6rem;
+}
+
+.post-content a { 
+    text-decoration: none;
+    color: #5F7894;
+}
+
+.post-content a:hover { 
+    text-decoration: underline;
 }
 
 .post-title a {
@@ -1360,12 +1369,12 @@ body:not(.post-template) .post-title {
     margin: 4rem auto;
     font-family: "Helvetica Neue", Arial, "PingFang TC", "Heiti TC", "Droid Sans Fallback", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
     font-size: 1.3rem;
-    color: #9EABB3;
+    color: #5F7894;
     text-align: center;
 }
 
 .pagination a {
-    color: #9EABB3;
+    color: #5F7894;
     transition: all 0.2s ease;
 }
 
