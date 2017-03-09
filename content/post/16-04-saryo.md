@@ -16,11 +16,11 @@ isCJKLanguage = true
 
 +++
 
-那天，我們剛結束在[糺の森的野餐](http://eternallogger.com/post/16-04-shimogamo/)，就下起了大雨。雨來得太急，打亂了原定慢慢散步的行程；匆忙之中，我們決定騎車到附近的茶寮休息，吃甜點、等雨停。
+那天，我們剛結束在[糺の森的野餐](https://eternallogger.com/post/16-04-shimogamo/)，就下起了大雨。雨來得太急，打亂了原定慢慢散步的行程；匆忙之中，我們決定騎車到附近的茶寮休息，吃甜點、等雨停。
 
 <!--more-->
 
-![茶寮宝泉的抹茶，2015](http://eternallogger.com/images/2016/16-04-saryo.jpg)
+![茶寮宝泉的抹茶，2015](https://eternallogger.com/images/2016/16-04-saryo.jpg)
 
 [茶寮宝泉](http://www.housendo.com/housen.html)是不是知名老店，有沒有軼聞奇傳，我一無所知。我會將它標註在行程地圖上，一來是因為店址離下鴨神社不遠，二來是它在餐廳評分網站[食べログ](http://tabelog.com/kyoto/A2601/A260503/26001872/)上的評價很高，僅此而已。
 
@@ -44,7 +44,7 @@ isCJKLanguage = true
 
 我搖搖頭，拒絕他的提議，同時也勸他不要拍。也許他會覺得奇怪，因為我此時的拒絕與我平時的拍照習慣很有衝突。我愛好[紀實攝影](https://en.wikipedia.org/wiki/Documentary_photography)，也熱衷[街頭攝影](https://en.wikipedia.org/wiki/Street_photography)，我並不忌諱對著陌生人拍照。
 
-![茶寮宝泉，2015](http://eternallogger.com/images/2016/16-04-saryo-1.jpg)
+![茶寮宝泉，2015](https://eternallogger.com/images/2016/16-04-saryo-1.jpg)
 
 然而，在那個現場，我卻明確有「不應該拍」的認知。我有兩個理由。首先，對方是來消費的客人。她選擇來這個擁有美好庭園的茶寮消費，購買的除了茶點之外，也包含服務、時間與空間。因此，若是我提起相機對著她拍，首先快門聲就會先破壞了靜謐的氣氛，同時也侵犯了她購買整體體驗的權利。
 

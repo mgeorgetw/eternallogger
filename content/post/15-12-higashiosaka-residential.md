@@ -19,7 +19,7 @@ isCJKLanguage = true
 
 <!--more-->
 
-![東大阪，2014](http://eternallogger.com/images/2015/Dec/15-12-higashiosaka-residential.jpg)
+![東大阪，2014](https://eternallogger.com/images/2015/Dec/15-12-higashiosaka-residential.jpg)
 
 爬樹的孩子的臉被樹葉遮掩，及至露出臉來卻是一副好奇膽怯的表情，是我們這兩個陌生人驚擾了他們。我看著那樣的表情，心底滲出些許羞愧，好像真的做了什麼壞事似的，急忙將原本扣在相機快門上的食指收進口袋。
 

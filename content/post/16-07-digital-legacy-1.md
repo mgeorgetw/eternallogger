@@ -57,10 +57,10 @@ smartypants = true
 
 終於，我們藉由最古典的方式過了第一關。繼承人用遺囑裡記下的密碼成功進入了系統，卻馬上面臨另一個問題：有些資料似乎並不屬於逝者？就算擁有，又不知如何取得呢？
 
-在接下來的[數位遺產系列文](http://eternallogger.com/tags/digital-legacy/)中，我打算把這些難題一一搞清楚。
+在接下來的[數位遺產系列文](https://eternallogger.com/tags/digital-legacy/)中，我打算把這些難題一一搞清楚。
 
 #### 【延伸閱讀】  
-[【數位遺產系列文章】](http://eternallogger.com/tags/digital-legacy/)    
-[《曾經活在網海中的證明：數位遺產（二）》](http://eternallogger.com/post/16-09-digital-legacy-2/)  
-[《創作者的難題：數位遺產（三）》](http://eternallogger.com/post/16-10-digital-legacy-3)  
-[《你到底留下了什麼？：數位遺產（四）》](http://eternallogger.com/post/16-11-digital-legacy-4/)
+[【數位遺產系列文章】](https://eternallogger.com/tags/digital-legacy/)    
+[《曾經活在網海中的證明：數位遺產（二）》](https://eternallogger.com/post/16-09-digital-legacy-2/)  
+[《創作者的難題：數位遺產（三）》](https://eternallogger.com/post/16-10-digital-legacy-3)  
+[《你到底留下了什麼？：數位遺產（四）》](https://eternallogger.com/post/16-11-digital-legacy-4/)
