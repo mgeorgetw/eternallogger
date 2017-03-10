@@ -11,12 +11,12 @@
             <a class="blog-logo" href="{{ .Permalink }}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
         {{end}}
         {{ if .Site.Menus.main }}
-            <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+            <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">目錄</span></a>
         {{else}}
             {{ if .Site.Params.RSSLink}}
-              <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;Subscribe</a>
+              <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;RSS訂閱</a>
             {{else}}
-              <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;Subscribe</a>
+              <a class="menu-button icon-feed" href="{{ .RSSLink }}">&nbsp;&nbsp;RSS訂閱</a>
             {{end}}
         {{end}}
     </nav>
@@ -52,9 +52,9 @@
 <main id="content" class="content" role="main">
 
   <article class="post">
-    <h1>404 Not Found</h1>
-    <p>Sorry, but we couldn't find the page you're looking for.</p>
-    <p>Please head back <a href="/">home</a>.</p>
+    <h1>肆零肆．斷簡殘篇</h1>
+    <p>很遺憾，您欲訪問的篇章似已亡佚，也許根本不曾存在。</p>
+    <p>還請回<a href="/">札記封面</a>，再尋新緣。</p>
   </article>
 
 {{ partial "footer.html" . }}
