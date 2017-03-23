@@ -1,17 +1,13 @@
 {{ partial "header.html" . }}
 
-{{if .Site.Params.cover}}
-<header class="main-header " style="background-image: url({{.Site.BaseURL}}{{.Site.Params.cover}})">
-{{else}}
 <header class="main-header no-cover">
-{{end}}
 
 <nav class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
-            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
+            <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
         {{end}}
         {{ if .Site.Menus.main }}
-            <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">目錄</span></a>
+            <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">MENU</span></a>
         {{else}}
             {{ if .Site.Params.RSSLink}}
               <a class="menu-button icon-feed" href="{{.Site.Params.RSSLink }}">&nbsp;&nbsp;RSS訂閱</a>
