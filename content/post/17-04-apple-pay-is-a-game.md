@@ -3,7 +3,7 @@
 date = "2017-04-14"
 draft = false
 title = "Apple Pay手遊上線啦！"
-slug = "17-04-apple-pay"
+slug = "17-04-apple-pay-is-a-game"
 tags = ["lifestyle","支付","生活","technology", "prosumer tips", "Apple Pay", "電子發票"]
 comments = false # set false to hide Disqus
 share = true # set false to hide share buttons
