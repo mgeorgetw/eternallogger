@@ -4,10 +4,10 @@ date = "2017-04-12"
 draft = false
 title = "讓手機讀書給你聽：數位閱讀（一）"
 slug = "17-04-read-with-ears"
-tags = ["lifestyle",閱讀","生活","technology", "prosumer tips"]
+tags = ["lifestyle","閱讀","生活","technology", "prosumer tips"]
 comments = false # set false to hide Disqus
 share = true # set false to hide share buttons
-menu= "" # set "main" to add this content to the main menu
+menu= ""  # set "main" to add this content to the main menu
 author = "黃樵志"
 isCJKLanguage = true
 
@@ -54,8 +54,8 @@ smartypants = true
 
 若要開啟iOS 10的朗讀螢幕功能，到「設定」＞「一般」＞「輔助功能」＞「語音」，便會看見朗讀螢幕的功能選項。
 
-![](http://eternallogger.com/images/2017/17-03-speakscreen_tutorial1.gif)
+![](https://eternallogger.com/images/2017/17-03-speakscreen_tutorial1.gif)
 
 若要收聽電子書，打開iBooks，選擇想讀的書，以兩隻手指自頁面最上端往下滑，便會開始朗讀。
 
-![](http://eternallogger.com/images/2017/17-03-speakscreen_tutorial2.gif)
+![](https://eternallogger.com/images/2017/17-03-speakscreen_tutorial2.gif)
