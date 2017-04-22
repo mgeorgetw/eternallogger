@@ -68,4 +68,4 @@ smartypants = true
 
 「重要的信件？」你問，「反正又不會有人寄信給我。」
 
-其實有的，或許[我寄給你](https://tinyletter.com/eternallogger)？
+其實有的，或許[我寄給你](https://eepurl.com/cL7-kT)？

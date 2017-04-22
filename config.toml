@@ -48,7 +48,7 @@ buildFuture = false
 	url = "/about"
 
 [[menu.main]]
-	name = "» 訂閱《樵志小報》"
+	name = "» Email訂閱"
 	weight = 5
 	identifier = "newsletter"
-	url = "https://tinyletter.com/eternallogger"
+	url = "https://eepurl.com/cL7-kT"

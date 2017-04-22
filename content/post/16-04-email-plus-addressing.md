@@ -23,9 +23,9 @@ isCJKLanguage = true
 
 <!--more-->
 
-Gmail等大型電子郵件服務商都有一個存在已久的功能，可以幫助你揪出出賣信箱地址的網站，也能協助過濾郵件。這功能叫做[「外加信址」](https://en.wikipedia.org/wiki/Plus_addressing)，能夠讓你為每一個要求你交出信箱的網站與論壇，設定一次性的電子郵件信箱。
+Gmail等大型電子郵件服務商都有一個存在已久的功能，可以幫助你揪出出賣信箱地址的網站，也能協助過濾郵件。這功能叫做[「外加信址」](http://en.wikipedia.org/wiki/Plus_addressing)，能夠讓你為每一個要求你交出信箱的網站與論壇，設定一次性的電子郵件信箱。
 
-操作方法很簡單，以Gmail和Outlook為例（其他信箱的方法請見[這裡](https://en.wikipedia.org/wiki/Plus_addressing)）：
+操作方法很簡單，以Gmail和Outlook為例（其他信箱的方法請見[這裡](http://en.wikipedia.org/wiki/Plus_addressing)）：
 
 > 在原有的E-mail帳號名稱後面利用加號「+」，任意加上一組文字。完成。
 
@@ -35,7 +35,7 @@ Gmail等大型電子郵件服務商都有一個存在已久的功能，可以幫
 2. 我想訂閱《樵志小報》
 3. 在原帳號後「+eternallogger」，變成：
 	oooo+eternallogger@example.com
-4. 用這個新的信箱[訂閱《樵志小報》](https://tinyletter.com/eternallogger)
+4. 用這個新的信箱[訂閱《樵志小報》](https://eepurl.com/cL7-kT)
 
 這樣做的意思是：「這是oooo用來訂閱《樵志小報》的專用信箱。」
 
