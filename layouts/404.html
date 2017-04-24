@@ -1,8 +1,7 @@
 {{ partial "header.html" . }}
 
-<header class="main-header no-cover">
-
-<nav class="main-nav overlay clearfix">
+<header class="main-header post-head no-cover">
+    <nav class="main-nav clearfix">
         {{ if .Site.Params.logo }}
             <a class="blog-logo" href="{{.Site.BaseURL}}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
         {{end}}
@@ -16,41 +15,16 @@
             {{end}}
         {{end}}
     </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            {{ if .Site.Params.linkedinName }}
-                <a class="bloglogo" href="https://www.linkedin.com/in/{{ .Site.Params.linkedinName }}">
-                    <span class="icon-linkedin" style="color:white;font-size:2em"></span>
-                </a>
-            &nbsp;
-            {{end}}
-            {{ if .Site.Params.githubName }}
-                <a  href="https://github.com/{{ .Site.Params.githubName }}">
-                <span class="icon-github" style="color:white;font-size:2em"></span>
-                </a>
-            &nbsp;
-            {{end}}
-            {{ if .Site.Params.twitterName }}
-                <a class="bloglogo" href="https://twitter.com/{{ .Site.Params.twitterName }}">
-                    <span class="icon-twitter" style="color:white;font-size:2em"></span>
-                </a>
-            &nbsp;
-            {{end}}
-
-            <h1 class="page-title">{{ .Site.Title }}</h1>
-            <h2 class="page-description">{{ .Site.Params.description }}</h2>
-        </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
 </header>
 
-
-<main id="content" class="content" role="main">
-
-  <article class="post">
-    <h1>肆零肆．斷簡殘篇</h1>
-    <p>很遺憾，您欲訪問的篇章似已亡佚，也許根本不曾存在。</p>
-    <p>還請回<a href="/">札記封面</a>，再尋新緣。</p>
-  </article>
+<main class="content" role="main">
+    <article class="post">
+        <header class="post-header">
+            <h1 class="post-title">肆零肆．斷簡殘篇</h1>
+        </header>
+        <p>很遺憾，您欲訪問的篇章似已亡佚，也許根本不曾存在。</p>
+        <p>還請回<a href="/">札記封面</a>，再尋新緣。</p>
+    </article>
+</main>
 
 {{ partial "footer.html" . }}
