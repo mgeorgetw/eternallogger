@@ -28,7 +28,7 @@ smartypants = true
 
 所以簡單來說：Apple Pay等於感應式信用卡。
 
-![](https://eternallogger.com/images/2017/17-04-contactless.jpg)
+![](http://eternallogger.com/images/2017/17-04-contactless.jpg)
 
 儘管這麼說，但Apple畢竟不是銀行，所以Apple Pay也不是Apple發給你的信用卡。也就是說，我們必須把權責分開來看。負責幫你付款的依然是銀行，而不是Apple；錢的問題還是找銀行處理。Apple Pay只是你跟銀行中間的橋樑而已，這個橋樑提供了「指紋感應」的功能，並且從中（向銀行）收取服務費。
 

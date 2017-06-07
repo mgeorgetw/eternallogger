@@ -20,7 +20,7 @@ isCJKLanguage = true
 
 <!--more-->
 
-![高野川，2014](https://eternallogger.com/images/2016/16-04-shimogamo.jpg)
+![高野川，2014](http://eternallogger.com/images/2016/16-04-shimogamo.jpg)
 
 如果要為宜居的城市列出條件，你會以什麼為優先？治安很重要，公共建設也得便利才好，餐廳選擇最好多樣，物價不宜太高。是的，這些都很重要。但如果問我，我理想中的宜居城市必須滿足兩個條件：一要有河、二要有森林。
 
@@ -42,7 +42,7 @@ isCJKLanguage = true
 
 ------
 
-![糺の森，2014](https://eternallogger.com/images/2016/16-04-tadasunomori.jpg)
+![糺の森，2014](http://eternallogger.com/images/2016/16-04-tadasunomori.jpg)
 
 糺の森適合走路。糺の森不方便走路。
 

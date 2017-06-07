@@ -42,10 +42,10 @@ smartypants = true
 畢竟在這個時代，我們都是把名字寫在水上的人[^2]。
 
 #### 【延伸閱讀】
-[【數位遺產系列文章】](https://eternallogger.com/tags/digital-legacy/)  
-[《死前，別忘了留一把數位鑰匙：數位遺產（一）》](https://eternallogger.com/post/16-07-digital-legacy-1/)  
-[《曾經活在網海中的證明：數位遺產（二）》](https://eternallogger.com/post/16-09-digital-legacy-2/)  
-[《你到底留下了什麼？：數位遺產（四）》](https://eternallogger.com/post/16-11-digital-legacy-4/)
+[【數位遺產系列文章】](http://eternallogger.com/tags/digital-legacy/)  
+[《死前，別忘了留一把數位鑰匙：數位遺產（一）》](http://eternallogger.com/post/16-07-digital-legacy-1/)  
+[《曾經活在網海中的證明：數位遺產（二）》](http://eternallogger.com/post/16-09-digital-legacy-2/)  
+[《你到底留下了什麼？：數位遺產（四）》](http://eternallogger.com/post/16-11-digital-legacy-4/)
 
 [^1]: 此訊息代表客戶端在瀏覽網頁時，伺服器無法正常提供訊息，或是伺服器無法回應且不知原因。（[WIKI](https://zh.wikipedia.org/zh-tw/HTTP_404)）
 

@@ -64,9 +64,9 @@ smartypants = true
 也許在未來，我們什麼都不擁有，卻一起擁有整個網際網路。這麼左派的話，寫出來都有些害羞。那就這樣。
 
 #### 【延伸閱讀】
-[【數位遺產系列文章】](https://eternallogger.com/tags/digital-legacy/)  
-[《死前，別忘了留一把數位鑰匙：數位遺產（一）》](https://eternallogger.com/post/16-07-digital-legacy-1/)  
-[《曾經活在網海中的證明：數位遺產（二）》](https://eternallogger.com/post/16-09-digital-legacy-2/)  
-[《創作者的難題：數位遺產（三）》](https://eternallogger.com/post/16-10-digital-legacy-3)
+[【數位遺產系列文章】](http://eternallogger.com/tags/digital-legacy/)  
+[《死前，別忘了留一把數位鑰匙：數位遺產（一）》](http://eternallogger.com/post/16-07-digital-legacy-1/)  
+[《曾經活在網海中的證明：數位遺產（二）》](http://eternallogger.com/post/16-09-digital-legacy-2/)  
+[《創作者的難題：數位遺產（三）》](http://eternallogger.com/post/16-10-digital-legacy-3)
 
 [^1]: 不單指電子書城，把書加上DRM往往是出版社的主意。另外，賣音樂、電影、漫畫的平台同樣可能使用DRM。

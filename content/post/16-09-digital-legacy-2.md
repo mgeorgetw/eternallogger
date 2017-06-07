@@ -84,9 +84,9 @@ smartypants = true
 下一篇，我會討論數位資料的另一種形式：「數位資產」（digital asset）。
 
 #### 【延伸閱讀】  
-[【數位遺產系列文章】](https://eternallogger.com/tags/digital-legacy/)    
-[《死前，別忘了留一把數位鑰匙：數位遺產（一）》](https://eternallogger.com/post/16-07-digital-legacy-1/)  
-[《創作者的難題：數位遺產（三）》](https://eternallogger.com/post/16-10-digital-legacy-3)  
-[《你到底留下了什麼？：數位遺產（四）》](https://eternallogger.com/post/16-11-digital-legacy-4/)
+[【數位遺產系列文章】](http://eternallogger.com/tags/digital-legacy/)    
+[《死前，別忘了留一把數位鑰匙：數位遺產（一）》](http://eternallogger.com/post/16-07-digital-legacy-1/)  
+[《創作者的難題：數位遺產（三）》](http://eternallogger.com/post/16-10-digital-legacy-3)  
+[《你到底留下了什麼？：數位遺產（四）》](http://eternallogger.com/post/16-11-digital-legacy-4/)
 
 [^1]: 這裡雖然針對Facebook，但其實適用任何封閉的平台。
