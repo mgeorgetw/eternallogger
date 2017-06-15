@@ -58,13 +58,12 @@ pre { white-space: pre-wrap; }
 q { quotes: "\201C" "\201D" "\2018" "\2019"; }
 small { font-size: 80%; }
 sub, sup {
-   font-size: 75%;
-   line-height: 0;
-   position: relative;
-   vertical-align: baseline;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
 }
 sup { top: -0.5em; }
-sub { bottom: -0.25em; }
+sub { top: 0.4em; }
 img { border: 0; }
 svg:not(:root) { overflow: hidden; }
 figure { margin: 0; }
@@ -451,6 +450,17 @@ table.plain tbody > tr:nth-child(odd) > th {
 iframe, .fluid-width-video-wrapper {
     display: block;
     margin: 1.75em 0;
+}
+
+iframe {
+    width: 90vw; /* 90% of viewport vidth */
+    height: 50.625vw; /* ratio = 9/16 * 90 = 50.625 */
+    max-height: 90vh;
+    max-width: 160vh; /* 16/9 * 90 = 160 */
+    margin: auto;
+    position: absolute;
+    top:0;bottom:0;
+    left:0;right:0;
 }
 
 /* When a video is inside the fitvids wrapper, drop the
