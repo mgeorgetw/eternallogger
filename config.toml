@@ -8,6 +8,7 @@ isCJKLanguage = true
 canonifyurls = true
 buildDrafts = false
 buildFuture = false
+FootnoteReturnLinkContents = "↩"
 
 [params]
 	author= "黃樵志"
@@ -20,8 +21,6 @@ buildFuture = false
 	# linkedinName = ""
 	googleAnalyticsUserID = "UA-43093696-4"
 	hideHUGOSupport = false
-
-[blackfriday]
 
 [[menu.main]]
 	name = "札記封面"
