@@ -20,9 +20,9 @@ isCJKLanguage = true
 
 <!--more-->
 
-答案多半是春天的櫻和秋天的楓，所謂的「旅遊旺季」甚至就以這兩種植物分別造就。櫻花與楓葉當然都是極好的，那背後代表的是[最美好的頃刻](http://eternallogger.com/post/15-12-honen-in)，是在最燦爛的瞬間轉而凋零的極致之美。
+答案多半是春天的櫻和秋天的楓，所謂的「旅遊旺季」甚至就以這兩種植物分別造就。櫻花與楓葉當然都是極好的，那背後代表的是[最美好的頃刻](https://eternallogger.com/post/15-12-honen-in)，是在最燦爛的瞬間轉而凋零的極致之美。
 
-![高雄山高山寺，2014](http://eternallogger.com/images/2015/Dec/15-12-sanbi.jpg)
+![高雄山高山寺，2014](https://eternallogger.com/images/2015/Dec/15-12-sanbi.jpg)
 
 然而，京都還有一種植物，在我心中生了樸實的根；靜靜地，以其象徵意義餵養我在俗世紛擾間，還能保有方寸寧靜。
 

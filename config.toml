@@ -1,4 +1,4 @@
-baseurl = "http://eternallogger.com/"
+baseurl = "https://eternallogger.com/"
 languageCode = "zh"
 title = "樵志札記"
 paginate = 20

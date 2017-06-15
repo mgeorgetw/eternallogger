@@ -22,7 +22,7 @@ smartypants = true
 
 <!--more-->
 
-![捷運上的寶可夢，2016](http://eternallogger.com/images/2016/16-08-pokemon-go.png)
+![捷運上的寶可夢，2016](https://eternallogger.com/images/2016/16-08-pokemon-go.png)
 
 ### 一、AR與VR之間沒有戰爭
 
@@ -50,7 +50,7 @@ smartypants = true
 > 超現實語錄 #2：  
 > 「花了我10顆球、3個梅子，最後還逃跑！傑尼龜確實是個王八。」
 
-![寶可夢群像，2016](http://eternallogger.com/images/2016/16-08-pokemon-go-2.png)
+![寶可夢群像，2016](https://eternallogger.com/images/2016/16-08-pokemon-go-2.png)
 
 ### 三、Pokémon與公共空間
 
@@ -80,7 +80,7 @@ smartypants = true
 > 超現實語錄 #4：  
 > 「進來裡面抓啦，這裡有冷氣。」凌晨一點爆滿ATM室中的大叔。
 
-![都會生活也令寶可夢焦躁不已，2016](http://eternallogger.com/images/2016/16-08-pokemon-go-3.png)
+![都會生活也令寶可夢焦躁不已，2016](https://eternallogger.com/images/2016/16-08-pokemon-go-3.png)
 
 ### 五、抓Pokémon作為一場跨年晚會
 
@@ -103,7 +103,7 @@ smartypants = true
 > 超現實語錄 #5：  
 > 「對面公園有噴火龍！」狂奔的人群中傳來的呼嘯。
 
-![逕行穿越馬路的可達鴨，2016](http://eternallogger.com/images/2016/16-08-pokemon-go-4.png)
+![逕行穿越馬路的可達鴨，2016](https://eternallogger.com/images/2016/16-08-pokemon-go-4.png)
 
 ### 七、更深刻的AR，也是VR
 

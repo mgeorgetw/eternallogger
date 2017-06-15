@@ -41,7 +41,7 @@ smartypants = true
 7. 於我，要是不能自訂預設的相機，都是遺憾。
 8. 乍看之下，iOS 10的控制中心比起iOS 11的要優雅。
 
-![iOS 10與iOS 11控制介面比較圖](http://eternallogger.com/images/2017/17-06-control-center-comparison.png)
+![iOS 10與iOS 11控制介面比較圖](https://eternallogger.com/images/2017/17-06-control-center-comparison.png)
 
 ## What is Pro?
 
@@ -52,7 +52,7 @@ smartypants = true
 6. 手寫的文字也能搜尋，這下連iPad都要對你醜醜的字指指點點了。
 7. iMac Pro是專業；性能上是，可炫耀程度是，價格更是。But damn, just look at it.
 
-![](http://eternallogger.com/images/2017/17-06-imac-pro-accessories.png)
+![](https://eternallogger.com/images/2017/17-06-imac-pro-accessories.png)
 
 ## HomePod
 
@@ -60,4 +60,4 @@ smartypants = true
 2. 外觀舒舒服服地像個棉花糖，不遜於[B&O的藍牙音箱](https://www.beoplay.com/products/beolit17)。音響效果自然要實際聽了才知道，然而正如同所有的藍牙音箱，大家會說「哇！小小一個音箱就有如此效果，真厲害。」但不會說「哇！這音響簡直完美。」
 3. 想聽兩台HomePod吵架。
 
-![](http://eternallogger.com/images/2017/17-06-homepod.png)
+![](https://eternallogger.com/images/2017/17-06-homepod.png)
