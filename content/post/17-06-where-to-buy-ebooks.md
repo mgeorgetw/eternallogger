@@ -44,3 +44,6 @@ DRM-free的意思是沒有上鎖的電子書，能讓你直接下載存檔。問
 遺憾的是，Readmoo的繁體中文書籍相對豐富，卻都上了鎖。於是這裡出現了一個詭局：破解電子書，反而是幫了電子書店。所以啊，誰來幫幫Readmoo？
 
 > 結論：Fuck DRM. 
+
+#### 【延伸閱讀】  
+[〈如何管理電子書？〉](https://eternallogger.com/post/17-06-where-to-buy-ebooks/)
