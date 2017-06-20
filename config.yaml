@@ -1,0 +1,50 @@
+---
+baseURL: "https://eternallogger.com/"
+languageCode: "zh"
+title: "樵志札記"
+paginate: 20
+theme: "casper"
+Copyright: "All rights reserved - 2017"
+hasCJKLanguage: true
+canonifyURLs: true
+footnoteReturnLinkContents: "↩"
+config: "config.yaml"
+
+params:
+  author: "黃樵志"
+  description: "數位時代的緩步生活"
+  authorlocation: "Taipei, Taiwan"
+  cover: "images/cover.jpg"
+  logo: "images/ghlogo_2017.png"
+  twitterName: "eternallogger"
+  facebookName: "eternallogger"
+  # linkedinName: ""
+  googleAnalyticsUserID: "UA-43093696-4"
+  hideHUGOSupport: false
+
+blackfriday:
+  hrefTargetBlank: true
+
+menu:
+  main:
+    - name: "札記封面"
+      weight: 1
+      identifier: "blog"
+      url: "/"
+    - name: "旅遊紀行"
+      weight: 2
+      identifier: "travel"
+      url: "/tags/travel"
+    - name: "科技雜談"
+      weight: 3
+      identifier: "technology"
+      url: "/tags/technology"
+    - name: "關於樵志"
+      weight: 4
+      identifier: "about"
+      url: "/about"
+    - name: "» Email訂閱"
+      weight: 5
+      identifier: "newsletter"
+      url: "https://eepurl.com/cL7-kT"
+...
