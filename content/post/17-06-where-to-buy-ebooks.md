@@ -46,4 +46,5 @@ DRM-free的意思是沒有上鎖的電子書，能讓你直接下載存檔。問
 > 結論：Fuck DRM. 
 
 #### 【延伸閱讀】  
-[〈如何管理電子書？〉](https://eternallogger.com/post/17-06-where-to-buy-ebooks/)
+- [〈如何管理電子書？〉](https://eternallogger.com/post/17-06-how-to-manage-ebooks/)
+- [〈電子書閱讀軟體評比：一個挑剔鬼的告白〉](https://eternallogger.com/post/17-06-the-one-ebook-reader/)
