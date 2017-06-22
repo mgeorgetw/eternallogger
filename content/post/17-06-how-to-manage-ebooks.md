@@ -55,4 +55,5 @@ Calibre的第二個殺手級功能是一個[外掛，能去除主流電子書的
 > 結論：先取得檔案，再用Calibre去除DRM，就能主導自己的閱讀習慣。
 
 #### 【延伸閱讀】  
-[〈都2017年了，電子書究竟該去哪裡買？〉](https://eternallogger.com/post/17-06-how-to-manage-ebooks/)
+- [〈都2017年了，電子書究竟該去哪裡買？〉](https://eternallogger.com/post/17-06-where-to-buy-ebooks/)
+- [〈電子書閱讀軟體評比：一個挑剔鬼的告白〉](https://eternallogger.com/post/17-06-the-one-ebook-reader/)
