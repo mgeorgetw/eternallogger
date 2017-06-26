@@ -5,10 +5,9 @@
 {{else}}
 <header class="main-header no-cover">
 {{end}}
-
     <nav class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
-            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
+            <a class="blog-logo"><img src="{{.Site.BaseURL}}{{ .Site.Params.logo }}" alt="Blog Logo" /></a>
         {{end}}
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
@@ -71,7 +70,6 @@
     </div>
     <a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
 </header>
-
 
 <main id="content" class="content" role="main">
 

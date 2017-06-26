@@ -588,7 +588,7 @@ body.nav-opened .nav-cover {
             transition: transform 0.5s ease,
                         opacity 0.3s ease 0.7s;
     font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
-    font-weight: 700;
+    font-weight: normal;
     font-size: 11px;
     color: #909090;
 }
@@ -612,17 +612,17 @@ body.nav-opened .nav {
 
 .nav-title {
     position: absolute;
-    top: 45px;
+    top: 50px;
     left: 30px;
-    font-size: 18px;
-    font-weight: 100;
+    font-size: 1.8em;
+    font-weight: normal;
     text-transform: uppercase;
     color: #fff;
 }
 
 .nav-close {
     position: absolute;
-    top: 38px;
+    top: 43px;
     right: 25px;
     width: 20px;
     height: 20px;
@@ -676,7 +676,7 @@ body.nav-opened .nav {
     padding-right: 4%;
     padding-left: 5px;
     text-align: right;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     vertical-align: bottom;
     color: #B8B8B8;
     content: counter(item, lower-roman);
@@ -687,8 +687,8 @@ body.nav-opened .nav {
 }
 .nav li a {
     text-decoration: none;
-    line-height: 1.4;
-    font-size: 1.6rem;
+    line-height: 1.7;
+    font-size: 2rem;
     display: block;
     padding: 0.6rem 4%;
     overflow: hidden;
@@ -697,7 +697,7 @@ body.nav-opened .nav {
 }
 .nav li a:after {
     display: inline-block;
-    content: " .......................................................";
+    content: "..........................................";
     color: rgba(255,255,255,0.2);
     margin-left: 5px;
 }
@@ -729,24 +729,23 @@ body.nav-opened .nav {
     box-sizing: border-box;
     display: block;
     position: absolute;
-    bottom: 30px;
     left: 30px;
     right: 30px;
     height: 38px;
     padding: 0 20px;
     color: #111 !important;
     text-align: center;
-    font-size: 14px;
+    font-size: 1.6em;
     font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
     text-transform: uppercase;
     text-decoration: none;
-    line-height: 35px;
-    border-radius: 3px;
+    line-height: 38px;
+    border-radius: 20px;
     background: #fff;
     transition: all ease 0.3s;
 }
 .subscribe-button:before {
-    font-size: 9px;
+    font-size: 0.8em;
     margin-right: 6px;
 }
 
@@ -812,7 +811,7 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 42px;
+    height: 50px;
     padding: 1px 0 5px 0;
     width: auto;
 }
@@ -823,17 +822,17 @@ body.nav-opened .nav {
     box-sizing: border-box;
     display: inline-block;
     float: right;
-    height: 38px;
-    padding: 0 15px;
+    height: 48px;
+    padding: 0 18px;
     border: #bfc8cd 1px solid;
     opacity: 1;
     color: #9EABB3;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
     text-transform: uppercase;
-    line-height: 35px;
+    line-height: 46px;
     white-space: nowrap;
-    border-radius: 3px;
+    border-radius: 25px;
     background: rgba(0,0,0,0.1);
     transition: all 0.5s ease;
 }
@@ -841,8 +840,8 @@ body.nav-opened .nav {
     outline: 0;
 }
 .menu-button .burger {
-    font-size: 14px;
-    margin-right: 6px;
+    font-size: 18px;
+    margin-right: 8px;
 }
 
 body.nav-opened .menu-button {
@@ -1044,6 +1043,11 @@ body:not(.post-template) .post-title {
     text-transform: uppercase;
     font-size: 1.3rem;
     white-space: nowrap;
+}
+
+.post-tag {
+    display: inline-block;
+    font-size: 1.3rem;
 }
 
 .user-image {
@@ -1405,7 +1409,7 @@ body:not(.post-template) .post-title {
     transition: border 0.3s ease;
 }
 
-.older-posts {
+.newer-posts {
     right: 0;
 }
 
@@ -1415,7 +1419,7 @@ body:not(.post-template) .post-title {
     min-width: 100px;
 }
 
-.newer-posts {
+.older-posts {
     left: 0;
 }
 
@@ -1625,7 +1629,7 @@ body:not(.post-template) .post-title {
 
     .main-header {
         margin-bottom: 15px;
-        height: 85vh;
+        height: 78vh;
     }
 
     .no-cover.main-header {
@@ -1644,24 +1648,29 @@ body:not(.post-template) .post-title {
     }
 
     .blog-logo {
-        padding: 5px;
+        padding: 13px;
     }
 
     .blog-logo img {
-        height: 30px;
+        height: 33px;
     }
 
     .menu-button {
-        padding: 0 5px;
+        padding: 5px 6px;
         border-radius: 0;
         border-color: transparent;
         color: #2e2e2e;
         background: transparent;
+        font-size: 1em;
     }
     .menu-button:hover {
         color: #2e2e2e;
         border-color: transparent;
         background: none;
+    }
+    .menu-button .burger {
+        font-size: 1em;
+        margin-right: 6px;
     }
     body.nav-opened .menu-button {
         background: none !important;
@@ -1687,7 +1696,6 @@ body:not(.post-template) .post-title {
 
     .nav-title {
         top: 25px;
-
     }
 
     .nav-close {
@@ -1854,12 +1862,12 @@ body:not(.post-template) .post-title {
     }
 
     .post-head.main-header {
-        height: 66vh;
+        height: 58vh;
     }
 
     .tag-head.main-header,
     .author-head.main-header {
-        height: 20vh;
+        height: 38vh;
     }
 
     .author-profile .author-image {
