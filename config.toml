@@ -47,7 +47,7 @@ FootnoteReturnLinkContents = "↩"
 	url = "/about"
 
 [[menu.main]]
-	name = "» Email訂閱"
+	name = "☞ Email訂閱"
 	weight = 5
 	identifier = "newsletter"
 	url = "https://eepurl.com/cL7-kT"

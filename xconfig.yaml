@@ -3,12 +3,11 @@ baseURL: "https://eternallogger.com/"
 languageCode: "zh"
 title: "樵志札記"
 paginate: 20
-theme: "casper"
+theme: "eternallogger"
 Copyright: "All rights reserved - 2017"
 hasCJKLanguage: true
 canonifyURLs: true
 footnoteReturnLinkContents: "↩"
-config: "config.yaml"
 
 params:
   author: "黃樵志"
@@ -43,7 +42,7 @@ menu:
       weight: 4
       identifier: "about"
       url: "/about"
-    - name: "» Email訂閱"
+    - name: "Email訂閱"
       weight: 5
       identifier: "newsletter"
       url: "https://eepurl.com/cL7-kT"
