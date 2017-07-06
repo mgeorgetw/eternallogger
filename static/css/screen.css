@@ -67,8 +67,8 @@ sub { top: 0.4em; }
 img { border: 0; }
 svg:not(:root) { overflow: hidden; }
 figure { 
-    margin: 0; 
-    text-align: center;
+/*    margin: 0;
+    text-align: center;*/
     font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
     font-size: 0.9em;
 }
@@ -226,7 +226,7 @@ h1, h2, h3,
 h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
-    margin: 0 0 0.4em 0;
+    /*margin: 0 0 0.4em 0;*/
     font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
 }
 
@@ -612,7 +612,7 @@ body.nav-opened .nav {
 
 .nav-title {
     position: absolute;
-    top: 50px;
+    top: 30px;
     left: 30px;
     font-size: 1.8em;
     font-weight: normal;
@@ -845,7 +845,8 @@ body.nav-opened .nav {
 }
 
 body.nav-opened .menu-button {
-    padding: 0 12px;
+    padding-left: 12px;
+    padding-right: 0px;
     background: #111 !important;
     border-color: #111 !important;
     color: #fff !important;
@@ -948,6 +949,10 @@ body.nav-opened .menu-button .word {
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
+.post-title {
+    margin: 0 0 0.4em 0;
+}
+
 .post {
     position: relative;
     width: 80%;
@@ -1695,7 +1700,7 @@ body:not(.post-template) .post-title {
     }
 
     .nav-title {
-        top: 25px;
+        top: 5px;
     }
 
     .nav-close {
@@ -1757,11 +1762,6 @@ body:not(.post-template) .post-title {
         font-size: 1.6rem;
     }
 
-    h1, h2, h3,
-    h4, h5, h6 {
-        margin: 0 0 0.3em 0;
-    }
-
     h1 {
         font-size: 2.8rem;
         letter-spacing: -1px;
@@ -1792,6 +1792,10 @@ body:not(.post-template) .post-title {
         font-size: 2.5rem;
     }
 
+    .post-title {
+        margin: 0 0 0.3em 0;
+    }
+
     .post-template .post {
         padding-bottom: 0;
         margin-bottom: 0;
@@ -1819,7 +1823,7 @@ body:not(.post-template) .post-title {
     }
 
     .post-footer .author {
-        margin: 0 0 2rem 0;
+        margin: 1em 0 2rem 0;
         padding: 0 0 1.6rem 0;
         border-bottom: #EBF2F6 1px dashed;
     }
