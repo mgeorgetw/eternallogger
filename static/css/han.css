@@ -1836,11 +1836,11 @@ p.poem-like,
 article blockquote {
   margin-right: 0;
 }
-@media only screen and (max-width: 480px) {
+/*@media only screen and (max-width: 480px) {
   article blockquote {
     margin-left: 1em;
   }
-}
+}*/
 figure blockquote {
   margin: 0;
 }

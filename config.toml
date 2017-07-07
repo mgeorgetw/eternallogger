@@ -1,5 +1,5 @@
 baseurl = "https://eternallogger.com/"
-languageCode = "zh"
+languageCode = "zh-Hant-TW"
 title = "樵志札記"
 paginate = 20
 theme = "casper"

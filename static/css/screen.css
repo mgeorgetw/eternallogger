@@ -44,7 +44,7 @@ a:focus { outline: thin dotted; }
 a:active, a:hover { outline: 0; }
 h1 { font-size: 2em; margin: 0.67em 0; }
 abbr[title] { border-bottom: 1px dotted; }
-b, strong { font-weight: 700; }
+b, strong { font-weight: 600; }
 dfn { font-style: italic; }
 hr {
    -moz-box-sizing: content-box;
@@ -69,7 +69,7 @@ svg:not(:root) { overflow: hidden; }
 figure { 
 /*    margin: 0;
     text-align: center;*/
-    font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
+    font-family: "Han Songti CNS", serif;
     font-size: 0.9em;
 }
 fieldset {
@@ -198,7 +198,7 @@ html {
 body {
     height: 100%;
     max-height: 100%;
-    font-family: "Helvetica Neue", Arial, "PingFang TC", "Heiti TC", "Droid Sans Fallback", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "Han Heiti CNS", sans-serif;
     letter-spacing: 0.01rem;
     font-size: 1.8rem;
     line-height: 1.7em;
@@ -227,7 +227,7 @@ h4, h5, h6 {
     color: #2E2E2E;
     line-height: 1.15em;
     /*margin: 0 0 0.4em 0;*/
-    font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
+    font-family: "Han Songti CNS", serif;
 }
 
 /*
@@ -333,12 +333,11 @@ blockquote {
     box-sizing: border-box;
     margin: 1.75em 0 1.75em -2.2em;
     padding: 0 0 0 1.75em;
-    border-left: #4A4A4A 0.4em solid;
+    border-left: #4A4A4A 0.3em solid;
 }
 
 blockquote p {
     margin: 0.8em 0;
-    font-style: normal;
 }
 
 blockquote small {
@@ -351,7 +350,7 @@ blockquote small {
 blockquote small:before { content: "\2014 \00A0"; }
 
 blockquote cite {
-    font-weight: 700;
+    font-weight: 600;
 }
 
 blockquote cite a { font-weight: normal; }
@@ -587,8 +586,7 @@ body.nav-opened .nav-cover {
                         opacity 0.3s ease 0.7s;
             transition: transform 0.5s ease,
                         opacity 0.3s ease 0.7s;
-    font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
-    font-weight: normal;
+    font-family: "Han Songti CNS", serif;
     font-size: 11px;
     color: #909090;
 }
@@ -615,14 +613,13 @@ body.nav-opened .nav {
     top: 30px;
     left: 30px;
     font-size: 1.8em;
-    font-weight: normal;
     text-transform: uppercase;
     color: #fff;
 }
 
 .nav-close {
     position: absolute;
-    top: 43px;
+    top: 45px;
     right: 25px;
     width: 20px;
     height: 20px;
@@ -736,7 +733,7 @@ body.nav-opened .nav {
     color: #111 !important;
     text-align: center;
     font-size: 1.6em;
-    font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
+    font-family: "Han Songti", serif;
     text-transform: uppercase;
     text-decoration: none;
     line-height: 38px;
@@ -900,8 +897,7 @@ body.nav-opened .menu-button .word {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
-    font-weight: 700;
-    font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
+    font-family: "Han Songti CNS", serif;
     color: #fff;
 }
 
@@ -909,8 +905,7 @@ body.nav-opened .menu-button .word {
     margin: 0;
     font-size: 1.8rem;
     line-height: 1.7em;
-    font-weight: 400;
-    font-family: Palatino, "Palatino Linotype", "Songti TC", Simsun, "Droid Sans Fallback", PMingLiU, Georgia, serif;
+    font-family: "Han Songti CNS", serif;
     letter-spacing: 0.08rem;
     color: rgba(255,255,255,0.8);
 }
@@ -1011,7 +1006,7 @@ body:not(.post-template) .post-title {
 .post-meta {
     display: block;
     margin: 1.75rem 0 1rem 0;
-    font-family: "Helvetica Neue", Arial, "PingFang TC", "Heiti TC", "Droid Sans Fallback", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "Han Heiti CNS", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
     color: #9EABB3;
@@ -1063,7 +1058,7 @@ body:not(.post-template) .post-title {
 
 .user-name {
     display: block;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .user-bio {
@@ -1083,7 +1078,7 @@ body:not(.post-template) .post-title {
 
 .publish-heading {
     display: block;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .publish-date {
@@ -1329,7 +1324,7 @@ body:not(.post-template) .post-title {
 .author-bio {
     font-size: 1.8rem;
     line-height: 1.5em;
-    font-weight: 200;
+    font-weight: 600;
     color: #50585D;
     letter-spacing: 0;
     text-indent: 0;
@@ -1341,7 +1336,7 @@ body:not(.post-template) .post-title {
 /* Location, website, and link */
 .author-profile .author-meta {
     margin: 2rem 0;
-    font-family: "Helvetica Neue", Arial, "PingFang TC", "Heiti TC", "Droid Sans Fallback", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "Han Heiti CNS", sans-serif;
     letter-spacing: 0.01rem;
     font-size: 1.7rem;
 }
@@ -1391,7 +1386,7 @@ body:not(.post-template) .post-title {
     width: 80%;
     max-width: 710px;
     margin: 4rem auto;
-    font-family: "Helvetica Neue", Arial, "PingFang TC", "Heiti TC", "Droid Sans Fallback", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "Han Heiti CNS", sans-serif;
     font-size: 1.3rem;
     color: #5F7894;
     text-align: center;
@@ -1476,7 +1471,7 @@ body:not(.post-template) .post-title {
     margin: 8rem 0 0 0;
     padding: 0.5rem 15px;
     border-top: #EBF2F6 1px solid;
-    font-family: "Helvetica Neue", Arial, "PingFang TC", "Heiti TC", "Droid Sans Fallback", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    font-family: "Han Heiti CNS", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
     color: #BBC7CC;
@@ -1485,7 +1480,6 @@ body:not(.post-template) .post-title {
 .site-footer a {
     color: #BBC7CC;
     text-decoration: none;
-    font-weight: bold;
 }
 
 .site-footer a:hover {
@@ -1514,6 +1508,7 @@ body:not(.post-template) .post-title {
 
     blockquote {
         margin-left: 0;
+        border-left: #4A4A4A 0.2em solid;
     }
 
     .main-header {
