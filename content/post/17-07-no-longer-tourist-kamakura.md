@@ -1,5 +1,5 @@
 ---
-date: "2017-07-18"
+date: "2017-07-19"
 draft: false
 title: "旅人失格：鎌倉紀行"
 slug: "17-07-no-longer-tourist-kamakura"
