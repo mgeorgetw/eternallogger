@@ -2,7 +2,7 @@
      
 date = "2017-08-12"
 draft = false
-title = "我們需要新的老式電影院"
+title = "我們需要新的老派電影院"
 slug = "17-08-we-need-a-new-kind-of-classic-cinemas"
 tags = ["lifestyle","電影院","戲劇院","生活","cinema","theater"]
 comments = false # set false to hide Disqus
