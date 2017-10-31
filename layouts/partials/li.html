@@ -3,8 +3,14 @@
     <header class="post-header">
         <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     </header>
-    <section class="post-excerpt">
-        <p><a class="read-more" href="{{.RelPermalink}}">{{ .Summary }}</a></p>
+    <section class="post-excerpt"> 
+        <p><a class="read-more" href="{{.RelPermalink}}">
+            {{if .Params.description}}
+                {{ .Params.description }}
+            {{else}}
+                {{ .Summary }}
+            {{end}}
+        </a></p>
     </section>
     <footer class="post-meta">
 <!--
