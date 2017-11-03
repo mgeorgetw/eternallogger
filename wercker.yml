@@ -5,7 +5,7 @@ build:
     - arjen/hugo-build:
         version: "0.17"
         theme: casper
-        config: config.toml
+        config: config.yaml
         flags: --buildDrafts=true
 
 deploy:

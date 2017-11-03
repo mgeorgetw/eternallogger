@@ -1,13 +1,15 @@
 ---
 baseURL: "https://eternallogger.com/"
-languageCode: "zh"
+languageCode: "zh-Hant-TW"
 title: "樵志札記"
 paginate: 20
-theme: "eternallogger"
+theme: "casper"
 Copyright: "All rights reserved - 2017"
 hasCJKLanguage: true
 canonifyURLs: true
-footnoteReturnLinkContents: "↩"
+buildDrafts: false
+buildFuture: false
+FootnoteReturnLinkContents: "↩"
 
 params:
   author: "黃樵志"
