@@ -264,6 +264,11 @@ a:hover {
     color: #111;
 }
 
+em {
+    text-emphasis: filled;
+    font-style: normal;
+}
+
 p, ul, ol, dl {
     -webkit-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     -moz-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
