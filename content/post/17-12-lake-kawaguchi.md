@@ -4,17 +4,15 @@ draft: false
 title: "庸人的富士山：河口湖紀行"
 slug: "17-12-lake-kawaguchi"
 tags: ["travel", "lifestyle","旅行","生活","Kawaguchi","河口湖"]
-image: "/images/2017/17-12-kawaguchi-miscanthus.png"
+image: "images/2017/17-12-kawaguchi-miscanthus.png"
 description: "因為想看富士山，所以查了查JR周遊券的涵蓋範圍之後，自然而然選擇去了河口湖。在那裡，我暗自決定要當個庸人。"
 comments: false	# set false to hide Disqus
 share: true	# set false to hide share buttons
 menu: ""  # set "main" to add this content to the main menu
 author: "黃樵志"
 isCJKLanguage: true
-
 blackfriday:
     hrefTargetBlank: true
-    smartypants: true
 
 ---
 
@@ -100,6 +98,6 @@ blackfriday:
 
 是從神聖的儀式中排除神聖性，再以婚宴、婚紗、婚紗攝影等套裝行程取而代之造成的。
 
-不是富士山造成的。我在他們離去之後安靜下來的湖畔等雲散，盤算著再等半小時就能拍到不被遮擋的山景了吧。
+<em>不是</em>富士山造成的。我在他們離去之後安靜下來的湖畔等雲散，盤算著再等半小時就能拍到不被遮擋的山景了吧。
 
 也是一種庸人，大概。
