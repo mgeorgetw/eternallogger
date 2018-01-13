@@ -4,7 +4,7 @@ languageCode: "zh-Hant-TW"
 title: "樵志札記"
 paginate: 20
 theme: "casper"
-Copyright: "All rights reserved - 2017"
+Copyright: "All rights reserved - 2018"
 hasCJKLanguage: true
 canonifyURLs: true
 buildDrafts: false

@@ -1,22 +1,23 @@
-+++
-     
-date = "2017-06-14"
-draft = false
-title = "都2017年了，電子書究竟該去哪裡買？"
-slug = "17-06-where-to-buy-ebooks"
-tags = ["lifestyle","閱讀","生活","technology", "prosumer tips"]
-comments = false # set false to hide Disqus
-share = false # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-06-14
+draft: false
+isCJKLanguage: true
+menu: ""
+share: false
+slug: 17-06-where-to-buy-ebooks
+tags:
+- lifestyle
+- 閱讀
+- 生活
+- technology
+- prosumer tips
+title: 都2017年了，電子書究竟該去哪裡買？
+---
 
 電子書店存在已久，但經過一陣百家爭鳴的時期，最近漸漸塵埃落定。電子書的數量增加了，不論英文、日文或中文，我們終於能經由正規管道取得電子書，不愁無處花錢，也免於因為使用盜版而良心不安。買得到電子書真是太好了，現在我們終於可以開始考慮如何藏書。從這篇開始，我將會一一討論如何購書、藏書、讀書、筆記、分享書，並試圖找到最好的做法。那麼，這篇就從選擇電子書店開始吧。
 

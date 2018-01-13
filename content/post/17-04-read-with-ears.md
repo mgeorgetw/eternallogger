@@ -1,22 +1,23 @@
-+++
-     
-date = "2017-04-12"
-draft = false
-title = "讓手機讀書給你聽：數位閱讀（一）"
-slug = "17-04-read-with-ears"
-tags = ["lifestyle","閱讀","生活","technology", "prosumer tips"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-04-12
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-04-read-with-ears
+tags:
+- lifestyle
+- 閱讀
+- 生活
+- technology
+- prosumer tips
+title: 讓手機讀書給你聽：數位閱讀（一）
+---
 
 最近迷上了聽書。不是「天橋下說書的」講的那種，那種我這輩子從沒見過，更沒聽過。我知道的天橋下從來就沒有說書人，要說究竟有什麼呢？大概是堆著雜物或停了速克達吧。
 

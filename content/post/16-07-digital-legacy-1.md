@@ -1,23 +1,22 @@
-+++
-
-date = "2016-07-14"
-title = "死前，別忘了留一把數位鑰匙：數位遺產（一）"
-slug = "16-07-digital-legacy-1"
-author = "黃樵志"
-draft = false
-tags = ["technology","lifestyle","prosumer tips","digital legacy"]
-# image = "images/2016/16-07-digital-legacy-1.png"
-comments = false	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2016-07-14
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-07-digital-legacy-1
+tags:
+- technology
+- lifestyle
+- prosumer tips
+- digital legacy
+title: 死前，別忘了留一把數位鑰匙：數位遺產（一）
+---
 
 我時常想到死亡，以及我死亡後的世界。不，我指的不是天堂或地獄的景象，而是我曾活過的這個世界，在我死後會是什麼模樣。而曾經活過的我，又會對未來造成什麼影響。我會在心裡盤點我擁有的少少的東西，想像死後這些東西會流落到哪裡去。其中，讓我最為難的，偏偏是我財產中佔比最大的一塊：數位資料。
 

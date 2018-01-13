@@ -1,22 +1,22 @@
-+++
-     
-date = "2017-06-07"
-draft = false
-title = "小記：蘋果開發者大會，2017年版"
-slug = "17-06-wwdc-2017"
-tags = ["technology", "prosumer tips","Apple","WWDC"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-06-07
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-06-wwdc-2017
+tags:
+- technology
+- prosumer tips
+- Apple
+- WWDC
+title: 小記：蘋果開發者大會，2017年版
+---
 
 2017年6月6日是Apple的開發者大會（WWDC）。對於關注科技領域發展的人以及果粉來說，這可是一大盛事。以下紀錄我看今年WWDC的雜感。
 

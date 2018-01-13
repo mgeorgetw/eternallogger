@@ -1,20 +1,23 @@
-+++
-
-date = "2016-04-17"
-title = "無限嚮往的自由：下鴨紀行"
-slug = "16-04-shimogamo"
-author = "黃樵志"
-draft = false
-tags = [ "travel", "lifestyle","Kyoto","京都","下鴨","左京","糺の森" ]
-# image = "images/2016/16-04-shimogamo.jpg"
-comments = false  # set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2016-04-17
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-04-shimogamo
+tags:
+- travel
+- lifestyle
+- Kyoto
+- 京都
+- 下鴨
+- 左京
+- 糺の森
+title: 無限嚮往的自由：下鴨紀行
+---
 
 下鴨（しもがも），故稱下賀茂。鴨川與高野川合流之處以北的三角地帶，京都市左京區的兩河流域。正如美索不達米亞是古文明的發源地，下鴨地區也有古老的歷史：這是京都最古老神社的所在地，據說[文獻記錄可追溯至西元前90年](http://www.shimogamo-jinja.or.jp/annai.html)，也是女性守護神的供奉處。古老的東西總散發神秘的氣息，而最增這份神秘性的，正是一片佔地12.4公頃的原始森林──糺の森（ただすのもり）。
 

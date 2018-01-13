@@ -1,22 +1,24 @@
-+++
-     
-date = "2017-08-12"
-draft = false
-title = "我們需要新的老派電影院"
-slug = "17-08-we-need-a-new-kind-of-classic-cinemas"
-tags = ["lifestyle","電影院","戲劇院","生活","cinema","theater"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-08-12
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-08-we-need-a-new-kind-of-classic-cinemas
+tags:
+- lifestyle
+- 電影院
+- 戲劇院
+- 生活
+- cinema
+- theater
+title: 我們需要新的老派電影院
+---
 
 前幾天去電影院看了電影，從頭到尾都聽到有人在講話，體驗很差。在那之後我沒辦法停止思考「上劇院看戲」這件事，以至於非得把思緒付諸文字才行。
 

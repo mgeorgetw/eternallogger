@@ -1,20 +1,18 @@
-+++
-
-date = "2015-10-02"
-title = "關於樵志"
-author = "黃樵志"
-draft = false
-tags = ["你好","荒謬"]
-image = "images/about.png"
-comments = false	# set false to hide Disqus
-share = false	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2015-10-02
+draft: false
+image: images/about.png
+isCJKLanguage: true
+menu: ""
+share: false
+tags:
+- 你好
+- 荒謬
+title: 關於樵志
+---
 
 那個故事你也很熟悉了。
 

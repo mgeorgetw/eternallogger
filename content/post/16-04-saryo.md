@@ -1,20 +1,22 @@
-+++
-
-date = "2016-04-24"
-title = "不打擾的溫柔：京都茶寮紀行"
-slug = "16-04-saryo"
-author = "黃樵志"
-draft = false
-tags = [ "travel", "lifestyle","Kyoto","京都","茶寮","左京" ]
-# image = "images/2016/16-04-saryo.jpg"
-comments = false  # set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2016-04-24
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-04-saryo
+tags:
+- travel
+- lifestyle
+- Kyoto
+- 京都
+- 茶寮
+- 左京
+title: 不打擾的溫柔：京都茶寮紀行
+---
 
 那天，我們剛結束在[糺の森的野餐](https://eternallogger.com/post/16-04-shimogamo/)，就下起了大雨。雨來得太急，打亂了原定慢慢散步的行程；匆忙之中，我們決定騎車到附近的茶寮休息，吃甜點、等雨停。
 

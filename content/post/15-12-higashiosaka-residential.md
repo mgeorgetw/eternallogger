@@ -1,19 +1,19 @@
-+++
-
-date = "2015-12-01"
-title = "客夢鄉愁：東大阪住宅區紀行"
-slug = "15-12-higashiosaka-residential"
-author = "黃樵志"
-draft = false
-tags = [ "travel", "lifestyle","Osaka","大阪" ]
-# image = "images/2015/Dec/15-12-higashiosaka-residential.jpg"
-comments = false  # set false to hide Disqus
-share = true  # set false to hide share buttons
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2015-12-01
+draft: false
+isCJKLanguage: true
+share: true
+slug: 15-12-higashiosaka-residential
+tags:
+- travel
+- lifestyle
+- Osaka
+- 大阪
+title: 客夢鄉愁：東大阪住宅區紀行
+---
 
 當我回憶二〇一四年秋天的關西之旅，腦海裡混沌的蒙太奇中最清晰的畫面，是探訪司馬遼太郎紀念館那天。紀念館本身好極了，但那層次的記憶脫不了到此一遊的虛榮；真正縈繞不去、每每在不知所謂的時刻突然鮮明起來的，卻是漫步來回車站與紀念館間所經過的住宅區。
 

@@ -1,17 +1,24 @@
 ---
-date: "2017-10-20"
-draft: false
-title: "數位先行的CSS出版流程"
-slug: "17-10-digital-first-publishing-with-css"
-tags: ["technology","publishing","科技","出版","CSS","Markdown","HTML"]
-description: "CSS模板累積越多，出版過程就越輕鬆，文編、美編都省力許多，甚至讓個人出版變得更為可行。儘管CSS抽象，起步學習曲線較高，我依然認為這是值得花心思投入的領域。"
-comments: false # set false to hide Disqus
-share: true # set false to hide share buttons
-menu: ""  # set "main" to add this content to the main menu
-author: "黃樵志"
-isCJKLanguage: true
+author: 黃樵志
 blackfriday:
-    hrefTargetBlank: true
+  hrefTargetBlank: true
+comments: false
+date: 2017-10-20
+description: CSS模板累積越多，出版過程就越輕鬆，文編、美編都省力許多，甚至讓個人出版變得更為可行。儘管CSS抽象，起步學習曲線較高，我依然認為這是值得花心思投入的領域。
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-10-digital-first-publishing-with-css
+tags:
+- technology
+- publishing
+- 科技
+- 出版
+- CSS
+- Markdown
+- HTML
+title: 數位先行的CSS出版流程
 ---
 
 如今，大部分的作家都用電腦寫作了吧。就算原稿是紙本，出版社也必須先輸入電腦，才能排版。總之，初稿是電子檔。如果是一本文字書，例如小說、散文、詩集等，那麼這份初稿大概就是個單純的文字檔案，頂多加上幾張插圖。如果不考慮書的實體形式，只論內容，那麼多數人應該可以同意：這個文字檔就是書。

@@ -1,20 +1,24 @@
-+++
-
-date = "2015-12-31"
-title = "只有我們知道的地方：三尾紀行"
-slug = "15-12-sanbi"
-author = "黃樵志"
-draft = false
-tags = [ "travel", "lifestyle","Kyoto","京都","三尾","神護寺","高山寺","高雄" ]
-# image = "images/2015/Dec/15-12-sanbi.jpg"
-comments = false  # set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2015-12-31
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 15-12-sanbi
+tags:
+- travel
+- lifestyle
+- Kyoto
+- 京都
+- 三尾
+- 神護寺
+- 高山寺
+- 高雄
+title: 只有我們知道的地方：三尾紀行
+---
 
 說到京都的植物，你會想到什麼呢？
 

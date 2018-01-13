@@ -1,22 +1,24 @@
-+++
-     
-date = "2017-06-15"
-draft = false
-title = "如何在iPhone安裝一個輕巧的Facebook"
-slug = "17-06-how-to-get-a-better-lighter-facebook-on-iphone"
-tags = ["technology", "prosumer tips","Apple","iPhone", "Facebook", "video"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-06-15
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-06-how-to-get-a-better-lighter-facebook-on-iphone
+tags:
+- technology
+- prosumer tips
+- Apple
+- iPhone
+- Facebook
+- video
+title: 如何在iPhone安裝一個輕巧的Facebook
+---
 
 作為一個內容都要另外從網路取得的平台，Facebook不可思議地肥大。
 

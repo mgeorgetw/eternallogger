@@ -1,20 +1,22 @@
-+++
-
-date = "2015-12-24"
-title = "最好的頃刻，最冷漠：法然院紀行"
-slug = "15-12-honen-in"
-author = "黃樵志"
-draft = false
-tags = [ "travel", "lifestyle","Kyoto","京都","法然院","哲學之道" ]
-# image = "images/2015/Dec/15-12-honen-in.jpg"
-comments = false  # set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2015-12-24
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 15-12-honen-in
+tags:
+- travel
+- lifestyle
+- Kyoto
+- 京都
+- 法然院
+- 哲學之道
+title: 最好的頃刻，最冷漠：法然院紀行
+---
 
 二〇一五年十二月，聖嬰在溫室裡鬧得全球的寒意都隱忍不動。我們一行人原本預期要在楓葉季節過後，踏上古城京都喧囂方盡的石板路，浸染蕭索。帶著那樣的心情編排了行程，如今卻不由得被挑起一絲期待──也許楓還紅著。
 

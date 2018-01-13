@@ -1,22 +1,23 @@
-+++
-     
-date = "2017-04-20"
-draft = false
-title = "現在開始少讀書：數位閱讀（二）"
-slug = "17-04-now-read-less"
-tags = ["lifestyle","閱讀","生活","technology", "prosumer tips"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-04-20
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-04-now-read-less
+tags:
+- lifestyle
+- 閱讀
+- 生活
+- technology
+- prosumer tips
+title: 現在開始少讀書：數位閱讀（二）
+---
 
 愛書人手不釋卷的形象已經作為一種肥皂劇角色的樣板被固定下來了吧。吃飯時、走路時、搭捷運通勤時、去公園遛狗時，臉一定要埋在書裡才行。我雖然討厭樣板人物，卻也不得不承認：我曾經認為，如果可以每天一直讀書，就這麼讀到死也沒關係。
 

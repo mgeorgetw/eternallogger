@@ -1,24 +1,23 @@
-+++
-
-date = "2016-05-01"
-title = "你早就已經會的E-mail整理術"
-slug = "16-05-how-to-organize-inbox"
-author = "黃樵志"
-draft = false
-tags = ["technology","lifestyle","prosumer tips","email"]
-image = "images/2016/16-05-how-to-organize-inbox.png"
-comments = false	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = false
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
+comments: false
+date: 2016-05-01
+draft: false
+image: images/2016/16-05-how-to-organize-inbox.png
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-05-how-to-organize-inbox
+tags:
+- technology
+- lifestyle
+- prosumer tips
+- email
+title: 你早就已經會的E-mail整理術
+---
 
 有張圖是這麼說的。這個世界上有兩種人：一種人的收件匣保持淨空，一種人有14,654封未讀郵件。這張圖有點損人的意味，暗示後者不懂得如何整理信件。其實不是這樣。所有人都懂得整理郵件的方法，只是沒有確實領悟電子郵件的設計模式而已。但為什麼呢？
 

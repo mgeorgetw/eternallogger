@@ -1,21 +1,21 @@
-+++
-
-date = "2016-04-26"
-title = "揪出出賣你E-mail信箱的凶手：「外加信址」（plus addressing）"
-slug = "16-04-email-plus-addressing"
-author = "黃樵志"
-draft = false
-tags = ["technology","lifestyle","prosumer tips","email"]
-image = "images/2016/16-04-email-plus-addressing.png"
-comments = false	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2016-04-26
+draft: false
+image: images/2016/16-04-email-plus-addressing.png
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-04-email-plus-addressing
+tags:
+- technology
+- lifestyle
+- prosumer tips
+- email
+title: 揪出出賣你E-mail信箱的凶手：「外加信址」（plus addressing）
+---
 
 電子信箱。一個讓有情人在垃圾中翻找情書的古老服務。
 

@@ -1,22 +1,23 @@
-+++
-     
-date = "2017-05-12"
-draft = false
-title = "你需要一台電子書閱讀器，真的！"
-slug = "17-05-buy-eink-reader-now"
-tags = ["lifestyle","閱讀","生活","technology", "prosumer tips"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-05-12
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-05-buy-eink-reader-now
+tags:
+- lifestyle
+- 閱讀
+- 生活
+- technology
+- prosumer tips
+title: 你需要一台電子書閱讀器，真的！
+---
 
 事實很簡單：每個人都需要一台電子書閱讀器，尤其是搭載電子墨水的那種。讓我告訴你為什麼。
 

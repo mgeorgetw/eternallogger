@@ -1,23 +1,25 @@
-+++
-
-date = "2017-10-13"
-draft = false
-title = "烏托邦已死，升級無了時"
-slug = "17-10-endless-upgrades"
-tags = ["technology","lifestyle","prosumer tips","upgrade","生活","升級"]
-image = ""
-comments = false    # set false to hide Disqus
-share = true    # set false to hide share buttons
-menu= ""    # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-10-13
+draft: false
+image: ""
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-10-endless-upgrades
+tags:
+- technology
+- lifestyle
+- prosumer tips
+- upgrade
+- 生活
+- 升級
+title: 烏托邦已死，升級無了時
+---
 
 軟硬體升級往往苦樂參半。每年九月蘋果推出新手機，同時也會推出新的作業系統。在這段期間，網路上便會出現大量的文章，有的介紹新系統的新功能，有的勸人最好不要升級；少不了各種手機變磚的哀嚎、以及「我的沒事啊」等報平安訊息。
 

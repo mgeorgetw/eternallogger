@@ -1,19 +1,18 @@
-+++
-
-date = "2016-03-24"
-title = "當我們談論VR時，我們在談論什麼：隨想VR（一）"
-slug = "16-03-virtual-reality-1"
-author = "黃樵志"
-draft = false
-tags = [ "technology", "virtual reality" ]
-image = "images/2016/16-03-virtual-reality-1.jpg"
-comments = false  # set false to hide Disqus
-share = true  # set false to hide share buttons
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2016-03-24
+draft: false
+image: images/2016/16-03-virtual-reality-1.jpg
+isCJKLanguage: true
+share: true
+slug: 16-03-virtual-reality-1
+tags:
+- technology
+- virtual reality
+title: 當我們談論VR時，我們在談論什麼：隨想VR（一）
+---
 
 對於人生，總有不滿。對於理想世界，有時還抱著憧憬與期待。對於日常的庸俗，不得不追尋美來與之對抗。所以當虛擬現實（virtual reality）變得可能，好像一覺醒來發現美夢都可以成真。
 <!--more-->

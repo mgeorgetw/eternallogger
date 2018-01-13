@@ -1,22 +1,22 @@
-+++
-
-date = "2016-09-30"
-title = "曾經活在網海中的證明：數位遺產（二）"
-slug = "16-09-digital-legacy-2"
-author = "黃樵志"
-draft = false
-tags = ["technology","lifestyle","prosumer tips","digital legacy"]
-comments = false	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2016-09-30
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-09-digital-legacy-2
+tags:
+- technology
+- lifestyle
+- prosumer tips
+- digital legacy
+title: 曾經活在網海中的證明：數位遺產（二）
+---
 
 數位遺產的所有權是眼下極為棘手的問題，簡單來說：我們付費得到的東西很多時候根本不屬於我們。Everything as a service。我們買到的是服務，不是購買物本身。「什麼都有」與「一無所有」從來不曾像這個時代這麼接近。然而，一旦考慮想要怎麼樣被記住？想要留給後人什麼東西？就不得不開始釐清，究竟我們真的擁有什麼東西，又能如何處理。
 

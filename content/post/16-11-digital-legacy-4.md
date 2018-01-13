@@ -1,23 +1,22 @@
-+++
-
-date = "2016-11-18"
-title = "你到底留下了什麼？：數位遺產（四）"
-slug = "16-11-digital-legacy-4"
-author = "黃樵志"
-draft = false
-tags = ["technology","lifestyle","prosumer tips","digital legacy"]
-# image = "images/2016/16-11-digital-legacy-4.png"
-comments = false	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2016-11-18
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-11-digital-legacy-4
+tags:
+- technology
+- lifestyle
+- prosumer tips
+- digital legacy
+title: 你到底留下了什麼？：數位遺產（四）
+---
 
 在實體世界中，我們理所當然地認為：「我買的東西當然是我的。」而在過世之後，這些物品的所有權就自然轉移給繼承人，再明白不過。可是，在2016年的數位世界，我們買來的東西可能根本就不屬於自己。這篇就來談談數位時代消費者的困局。
 

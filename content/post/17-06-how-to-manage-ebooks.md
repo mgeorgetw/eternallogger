@@ -1,22 +1,23 @@
-+++
-
-date = "2017-06-19"
-draft = false
-title = "如何管理電子書？"
-slug = "17-06-how-to-manage-ebooks"
-tags = ["lifestyle","閱讀","生活","technology", "prosumer tips"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-06-19
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-06-how-to-manage-ebooks
+tags:
+- lifestyle
+- 閱讀
+- 生活
+- technology
+- prosumer tips
+title: 如何管理電子書？
+---
 
 這是電子書管理系列文章的第二篇。還沒看過第一篇雖然也沒關係，但如果想從頭了解，請先閱讀[〈都2017年了，電子書究竟該去哪裡買？〉](https://eternallogger.com/post/17-06-where-to-buy-ebooks/)。
 

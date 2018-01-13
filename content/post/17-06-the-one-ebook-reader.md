@@ -1,16 +1,21 @@
 ---
-date: "2017-06-22"
-draft: false
-title: "電子書閱讀軟體評比：一個挑剔鬼的告白"
-slug: "17-06-the-one-ebook-reader"
-tags: ["lifestyle","閱讀","生活","technology", "prosumer tips"]
-comments: false # set false to hide Disqus
-share: true # set false to hide share buttons
-menu: ""  # set "main" to add this content to the main menu
-author: "黃樵志"
-isCJKLanguage: true
+author: 黃樵志
 blackfriday:
-    hrefTargetBlank: true
+  hrefTargetBlank: true
+comments: false
+date: 2017-06-22
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-06-the-one-ebook-reader
+tags:
+- lifestyle
+- 閱讀
+- 生活
+- technology
+- prosumer tips
+title: 電子書閱讀軟體評比：一個挑剔鬼的告白
 ---
 
 如果你和我一樣使用iOS搭配macOS，那麼選擇電子書閱讀軟體非常困難。不是因為沒有好的，而是每一種都不差，選哪種好像都可以。我選了又換、換了再換，最後勉強篩選出三個，而且依然無法肯定地說：「用這個就對了！」十分糾結。不過，在試用的過程中，還是累積了一些經驗，所以在此為文，供有緣人參考。這篇文章是「電子書系列文」的第三篇，請至少先看過[〈如何管理電子書？〉](https://eternallogger.com/post/17-06-how-to-manage-ebooks/)，再繼續閱讀。

@@ -1,17 +1,24 @@
 ---
-date: "2017-12-11"
-draft: false
-title: "縱排印刷CSS・第一次嘗試"
-slug: "17-12-print-zongpai-css"
-tags: ["technology","publishing","科技","出版","CSS","Markdown","HTML"]
-description: "嘗試打造數位先行的縱排小說出版流程，結果雖不理想，卻看得出未來的潛力。"
-comments: false # set false to hide Disqus
-share: true # set false to hide share buttons
-menu: ""  # set "main" to add this content to the main menu
-author: "黃樵志"
-isCJKLanguage: true
+author: 黃樵志
 blackfriday:
-    hrefTargetBlank: true
+  hrefTargetBlank: true
+comments: false
+date: 2017-12-11
+description: 嘗試打造數位先行的縱排小說出版流程，結果雖不理想，卻看得出未來的潛力。
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-12-print-zongpai-css
+tags:
+- technology
+- publishing
+- 科技
+- 出版
+- CSS
+- Markdown
+- HTML
+title: 縱排印刷CSS・第一次嘗試
 ---
 
 繼上次寫了[〈數位先行的CSS出版流程〉](https://eternallogger.com/post/17-10-digital-first-publishing-with-css/)之後，覺得手癢，非得自己試試看是不是真的可行。我的野心不大，只打算做出文字小說或內含少量圖片的旅遊札記而已。我本來就用Markdown寫作，所以若是能把完稿集結後直接轉成EPUB和PDF印刷檔，同時自動生成扉頁、目錄、頁眉或頁腳、頁碼，就算成功。

@@ -1,19 +1,17 @@
-+++
-
-date = "2012-02-28"
-title = "消除差異，以進大同：Lois Lowry的《The Giver》"
-slug = "12-02-the-giver"
-author = "黃樵志"
-draft = false
-tags = [ "reading", "literature" ]
-# image = "images/2012/Feb/12-02-the-giver.jpg"
-comments = false  # set false to hide Disqus
-share = true  # set false to hide share buttons
-isCJKLanguage = true
-
-[blackfriday]
-
-+++
+---
+author: 黃樵志
+blackfriday: {}
+comments: false
+date: 2012-02-28
+draft: false
+isCJKLanguage: true
+share: true
+slug: 12-02-the-giver
+tags:
+- reading
+- literature
+title: 消除差異，以進大同：Lois Lowry的《The Giver》
+---
 
 > Jonas chuckled. “Very frightening. I can’t even imagine it. We really have to protect people from wrong choices.” 
 > ─Lowry, L.  (1993). The Giver.

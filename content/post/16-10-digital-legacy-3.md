@@ -1,23 +1,22 @@
-+++
-
-date = "2016-10-17"
-title = "創作者的難題：數位遺產（三）"
-slug = "16-10-digital-legacy-3"
-author = "黃樵志"
-draft = false
-tags = ["technology","lifestyle","prosumer tips","digital legacy"]
-# image = "images/2016/16-10-digital-legacy-3.png"
-comments = false	# set false to hide Disqus
-share = true	# set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2016-10-17
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 16-10-digital-legacy-3
+tags:
+- technology
+- lifestyle
+- prosumer tips
+- digital legacy
+title: 創作者的難題：數位遺產（三）
+---
 
 每個人都可以分別用兩種視角看待「數位資產」（digital asset）：創作者與消費者。對消費者而言，數位資產包括你在網路上購買的東西，像是音樂、電影、電子書等；也包括電子帳戶，像是PayPal、比特幣。如果你是創作者的話，自然也包括你寫的文章、拍的照片、畫的圖畫、編的歌曲，拍攝的影片。
 

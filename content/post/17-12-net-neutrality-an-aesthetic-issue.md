@@ -1,20 +1,25 @@
 ---
-date: "2017-12-21"
-draft: false
-title: "小眾的網路中立美學"
-slug: "17-12-net-neutrality-an-aesthetic-issue"
-tags: ["technology", "lifestyle","科技","生活","prosumer tips", "網路中立", "net neutrality", ]
-image: ""
-description: " 二〇一七年十二月十四日 ，美國聯邦通訊委員會於廢除了「網路中立」規約。身為一個消費者，我從幾回個人經驗發現：網路中立不見得對多數消費者有利，但我依然支持網路中立。"
-comments: false	# set false to hide Disqus
-share: true	# set false to hide share buttons
-menu: ""  # set "main" to add this content to the main menu
-author: "黃樵志"
-isCJKLanguage: true
-
+author: 黃樵志
 blackfriday:
-    hrefTargetBlank: true
-
+  hrefTargetBlank: true
+comments: false
+date: 2017-12-21
+description: ' 二〇一七年十二月十四日 ，美國聯邦通訊委員會於廢除了「網路中立」規約。身為一個消費者，我從幾回個人經驗發現：網路中立不見得對多數消費者有利，但我依然支持網路中立。'
+draft: false
+image: ""
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-12-net-neutrality-an-aesthetic-issue
+tags:
+- technology
+- lifestyle
+- 科技
+- 生活
+- prosumer tips
+- 網路中立
+- net neutrality
+title: 小眾的網路中立美學
 ---
 
 二〇一七年十二月十四日，美國聯邦通訊委員會通過表決，廢除了「網路中立」規約。所謂中立，就是網路服務提供商（ISP）[^1]必須平等對待任何網站或網路服務的流量與速度，大財團經營的媒體也好、個人架設的部落格也好，一律不予限制。如今中立規則遭到廢除，網路服務提供商便可以差別對待網站和網路服務，例如加速旗下影音網站的串流速度，或是限制競爭者的流量。

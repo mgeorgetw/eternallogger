@@ -1,22 +1,24 @@
-+++
-     
-date = "2017-04-14"
-draft = false
-title = "Apple Pay手遊上線啦！"
-slug = "17-04-apple-pay-is-a-game"
-tags = ["lifestyle","支付","生活","technology", "prosumer tips", "Apple Pay"]
-comments = false # set false to hide Disqus
-share = true # set false to hide share buttons
-menu= ""  # set "main" to add this content to the main menu
-author = "黃樵志"
-isCJKLanguage = true
-
-[blackfriday]
-
-hrefTargetBlank = true 
-smartypants = true
-
-+++
+---
+author: 黃樵志
+blackfriday:
+  hrefTargetBlank: true
+  smartypants: true
+comments: false
+date: 2017-04-14
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-04-apple-pay-is-a-game
+tags:
+- lifestyle
+- 支付
+- 生活
+- technology
+- prosumer tips
+- Apple Pay
+title: Apple Pay手遊上線啦！
+---
 
 2017年3月29日，Apple Pay開放台灣區使用。嘩～地一下子iPhone用戶綁了幾十萬張信用卡進去，開始到處嗶嗶嗶，並向好友炫耀「今天，Apple Paid」。我也跟風試用了幾天，覺得這項產品真適合我，但同時又打從心底不在乎。以下是我身為消費者的想法。
 

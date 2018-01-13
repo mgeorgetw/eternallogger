@@ -1,17 +1,23 @@
 ---
-date: "2017-07-19"
-draft: false
-title: "旅人失格：鎌倉紀行"
-slug: "17-07-no-longer-tourist-kamakura"
-tags: ["travel", "lifestyle","Kamakura","鎌倉", "literature", "文學"]
-description: "鎌倉如同一口深井，看不見底。從外張望，就是個普通的小鎮，看不出哪裡特別。只有帶著手電筒一寸一寸潛入，才會在這處掘出歷史的遺骸，在那處聞到文學的鹹味。然而越深探，我卻越不知所措⋯⋯"
-comments: false # set false to hide Disqus
-share: true # set false to hide share buttons
-menu: ""  # set "main" to add this content to the main menu
-author: "黃樵志"
-isCJKLanguage: true
+author: 黃樵志
 blackfriday:
-    hrefTargetBlank: true
+  hrefTargetBlank: true
+comments: false
+date: 2017-07-19
+description: 鎌倉如同一口深井，看不見底。從外張望，就是個普通的小鎮，看不出哪裡特別。只有帶著手電筒一寸一寸潛入，才會在這處掘出歷史的遺骸，在那處聞到文學的鹹味。然而越深探，我卻越不知所措⋯⋯
+draft: false
+isCJKLanguage: true
+menu: ""
+share: true
+slug: 17-07-no-longer-tourist-kamakura
+tags:
+- travel
+- lifestyle
+- Kamakura
+- 鎌倉
+- literature
+- 文學
+title: 旅人失格：鎌倉紀行
 ---
 
 鎌倉如同一口深井，看不見底。從外張望，就是個普通的小鎮，看不出哪裡特別。只有帶著手電筒一寸一寸潛入，才會在這處掘出歷史的遺骸，在那處聞到文學的鹹味；竊笑江之電每十二分鐘響起一陣的咔噠聲響[^1]，傻站路邊賞十五分鐘老鷹因為老闆烤焦了鯛魚燒[^2]；望著湘南海岸感嘆姐妹還是四個好[^3]，摀著耳朵就怕山邊突然傳出魔性的山鳴[^4]。
