@@ -7,7 +7,7 @@ comments: false
 date: 2016-10-17
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 每個人都可以分別用兩種視角看待「數位資產」：創作者與消費者。對消費者而言，數位資產包括你在網路上購買的東西，像是音樂、電影、電子書等；也包括電子帳戶，像是PayPal、比特幣。如果你是創作者的話，自然也包括你寫的文章、拍的照片、畫的圖畫、編的歌曲，拍攝的影片。
 share: true
 slug: 16-10-digital-legacy-3
 tags:

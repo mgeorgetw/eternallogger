@@ -8,7 +8,7 @@ date: 2016-05-01
 draft: false
 image: images/2016/16-05-how-to-organize-inbox.png
 isCJKLanguage: true
-menu: ""
+description: 所有人都懂得整理郵件的方法，只是沒有確實領悟電子郵件的設計模式而已。但為什麼呢？
 share: true
 slug: 16-05-how-to-organize-inbox
 tags:

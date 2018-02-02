@@ -7,7 +7,7 @@ comments: false
 date: 2017-04-14
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 2017年3月29日，Apple Pay開放台灣區使用。嘩～地一下子iPhone用戶綁了幾十萬張信用卡進去，開始到處嗶嗶嗶，並向好友炫耀「今天，Apple Paid」。我也跟風試用了幾天，覺得這項產品真適合我，但同時又打從心底不在乎。以下是我身為消費者的想法。
 share: true
 slug: 17-04-apple-pay-is-a-game
 tags:

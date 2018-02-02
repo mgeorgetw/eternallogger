@@ -7,7 +7,7 @@ comments: false
 date: 2017-06-14
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 電子書店存在已久，但經過一陣百家爭鳴的時期，最近漸漸塵埃落定。電子書的數量增加了，不論英文、日文或中文，我們終於能經由正規管道取得電子書，不愁無處花錢，也免於因為使用盜版而良心不安。買得到電子書真是太好了，現在我們終於可以開始考慮如何藏書。
 share: false
 slug: 17-06-where-to-buy-ebooks
 tags:

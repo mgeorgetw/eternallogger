@@ -6,9 +6,8 @@ blackfriday:
 comments: false
 date: 2017-10-13
 draft: false
-image: ""
+description: 儘管可能焦慮、有學不完的新東西、永遠是個新手，但唯有樂於升級工具、升級自己，人類才能持續往理型靠近。雖然靠近，卻永不止息。
 isCJKLanguage: true
-menu: ""
 share: true
 slug: 17-10-endless-upgrades
 tags:

@@ -1,9 +1,12 @@
 ---
 author: 黃樵志
-blackfriday: {}
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 comments: false
 date: 2015-12-24
 draft: false
+description: 二〇一五年十二月，聖嬰在溫室裡鬧得全球的寒意都隱忍不動。我們一行人原本預期要在楓葉季節過後，踏上古城京都喧囂方盡的石板路，浸染蕭索。帶著那樣的心情編排了行程，如今卻不由得被挑起一絲期待──也許楓還紅著。
 isCJKLanguage: true
 menu: ""
 share: true

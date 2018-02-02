@@ -4,7 +4,7 @@ blackfriday:
   hrefTargetBlank: true
 comments: false
 date: 2017-12-21
-description: ' 二〇一七年十二月十四日 ，美國聯邦通訊委員會於廢除了「網路中立」規約。身為一個消費者，我從幾回個人經驗發現：網路中立不見得對多數消費者有利，但我依然支持網路中立。'
+description: 二〇一七年十二月十四日 ，美國聯邦通訊委員會於廢除了「網路中立」規約。身為一個消費者，我從幾回個人經驗發現：網路中立不見得對多數消費者有利，但我依然支持網路中立。
 draft: false
 image: ""
 isCJKLanguage: true

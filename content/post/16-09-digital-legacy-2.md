@@ -7,7 +7,7 @@ comments: false
 date: 2016-09-30
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 數位遺產的所有權是眼下極為棘手的問題，簡單來說：我們付費得到的東西很多時候根本不屬於我們。Everything as a service。我們買到的是服務，不是購買物本身。「什麼都有」與「一無所有」從來不曾像這個時代這麼接近。然而，一旦考慮想要怎麼樣被記住？想要留給後人什麼東西？就不得不開始釐清，究竟我們真的擁有什麼東西，又能如何處理。
 share: true
 slug: 16-09-digital-legacy-2
 tags:

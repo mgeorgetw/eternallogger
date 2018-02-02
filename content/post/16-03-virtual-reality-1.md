@@ -1,11 +1,14 @@
 ---
 author: 黃樵志
-blackfriday: {}
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 comments: false
 date: 2016-03-24
 draft: false
 image: images/2016/16-03-virtual-reality-1.jpg
 isCJKLanguage: true
+description: 對於人生，總有不滿。對於理想世界，有時還抱著憧憬與期待。對於日常的庸俗，不得不追尋美來與之對抗。所以當虛擬現實變得可能，好像一覺醒來發現美夢都可以成真。
 share: true
 slug: 16-03-virtual-reality-1
 tags:

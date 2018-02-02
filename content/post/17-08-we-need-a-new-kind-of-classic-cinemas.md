@@ -7,7 +7,7 @@ comments: false
 date: 2017-08-12
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 前幾天去電影院看了電影，從頭到尾都聽到有人在講話，體驗很差。在那之後我沒辦法停止思考「上劇院看戲」這件事，以至於非得把思緒付諸文字才行。
 share: true
 slug: 17-08-we-need-a-new-kind-of-classic-cinemas
 tags:

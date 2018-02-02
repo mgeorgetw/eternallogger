@@ -1,11 +1,13 @@
 ---
 author: 黃樵志
-blackfriday: {}
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 comments: false
 date: 2016-04-24
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 那天，我們剛結束在糺の森的野餐，就下起了大雨。雨來得太急，打亂了原定慢慢散步的行程；匆忙之中，我們決定騎車到附近的茶寮休息，吃甜點、等雨停。
 share: true
 slug: 16-04-saryo
 tags:

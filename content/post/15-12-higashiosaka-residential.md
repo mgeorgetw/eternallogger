@@ -1,9 +1,12 @@
 ---
 author: 黃樵志
-blackfriday: {}
 comments: false
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 date: 2015-12-01
 draft: false
+description: 當我回憶二〇一四年秋天的關西之旅，腦海裡混沌的蒙太奇中最清晰的畫面，是探訪司馬遼太郎紀念館那天。紀念館本身好極了，但那層次的記憶脫不了到此一遊的虛榮；真正縈繞不去、每每在不知所謂的時刻突然鮮明起來的，卻是漫步來回車站與紀念館間所經過的住宅區。
 isCJKLanguage: true
 share: true
 slug: 15-12-higashiosaka-residential

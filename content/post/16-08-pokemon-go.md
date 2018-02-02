@@ -7,7 +7,7 @@ comments: false
 date: 2016-08-22
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 《Pokémon GO》在台灣推出剛滿二週，我也每天抽空抓怪抓了兩週。期間與朋友、家人、同事談的幾乎往往離不開Pokémon；走在路上隨時都會撞上其他的訓練師；從來沒見公園這麼熱鬧過。激烈的兩週過去，對於《Pokémon GO》與擴增實境頗有一些簡單的感想，在此做個記錄。
 share: true
 slug: 16-08-pokemon-go
 tags:

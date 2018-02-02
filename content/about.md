@@ -1,6 +1,8 @@
 ---
 author: 黃樵志
-blackfriday: {}
+blackfriday:
+  hrefTargetBlank: true
+description: 似乎什麼也沒記錄下來。
 comments: false
 date: 2015-10-02
 draft: false

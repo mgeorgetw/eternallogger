@@ -1,10 +1,13 @@
 ---
 author: 黃樵志
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 comments: false
 date: 2015-06-27
 draft: false
+description: 村上春樹的小說自成一格，並以那種風格風靡了幾乎遍及全球的讀者，其中必有超群之處。但小說賣得好，理由可以有很多。我們往往只能後見之明地分析，接近穿鑿地覺得這樣那樣。然而，背後究竟真正的原因是什麼？什麼樣的書會打動這麼多人？
 image: images/2015/Jun/tsukuru_tazaki.jpg
-menu: ""
 share: true
 slug: 15-06-Colorless-Tsukuru-Tazaki
 tags:

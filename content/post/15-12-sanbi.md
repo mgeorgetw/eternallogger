@@ -1,11 +1,13 @@
 ---
 author: 黃樵志
-blackfriday: {}
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 comments: false
 date: 2015-12-31
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 京都有一種植物，在我心中生了樸實的根；靜靜地，以其象徵意義餵養我在俗世紛擾間，還能保有方寸寧靜。
 share: true
 slug: 15-12-sanbi
 tags:

@@ -7,7 +7,7 @@ comments: false
 date: 2017-04-20
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 愛書人手不釋卷的形象已經作為一種肥皂劇角色的樣板被固定下來了吧。吃飯時、走路時、搭捷運通勤時、去公園遛狗時，臉一定要埋在書裡才行。我雖然討厭樣板人物，卻也不得不承認：我曾經認為，如果可以每天一直讀書，就這麼讀到死也沒關係。
 share: true
 slug: 17-04-now-read-less
 tags:

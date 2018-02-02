@@ -1,7 +1,10 @@
 ---
 author: 黃樵志
-blackfriday: {}
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 comments: false
+description: 很久了，聽聞《記憶傳承人》這部針對青少年所寫的人文科幻小說應該是高中的時候，卻從沒機會讀。這次聽外籍同事談及，才知道原來這本紐伯瑞文學獎得獎書原來名列美國初中學生必讀書單。這點讓我有些好奇，相較於美國的高知名度，何以這本書在台灣卻默默無名，鮮有人知？
 date: 2012-02-28
 draft: false
 isCJKLanguage: true

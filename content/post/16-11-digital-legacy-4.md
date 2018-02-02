@@ -7,7 +7,7 @@ comments: false
 date: 2016-11-18
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 在實體世界中，我們理所當然地認為：「我買的東西當然是我的。」而在過世之後，這些物品的所有權就自然轉移給繼承人，再明白不過。可是，在2016年的數位世界，我們買來的東西可能根本就不屬於自己。這篇就來談談數位時代消費者的困局。
 share: true
 slug: 16-11-digital-legacy-4
 tags:

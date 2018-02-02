@@ -1,12 +1,14 @@
 ---
 author: 黃樵志
-blackfriday: {}
+blackfriday:
+  hrefTargetBlank: false
+  smartypants: true
 comments: false
 date: 2016-04-26
 draft: false
 image: images/2016/16-04-email-plus-addressing.png
 isCJKLanguage: true
-menu: ""
+description: 垃圾郵件極為煩人，但你總不明白這些垃圾製作商怎麼會有你的信箱地址。其實，你可以知道。
 share: true
 slug: 16-04-email-plus-addressing
 tags:

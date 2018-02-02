@@ -7,7 +7,6 @@ date: 2017-07-19
 description: 鎌倉如同一口深井，看不見底。從外張望，就是個普通的小鎮，看不出哪裡特別。只有帶著手電筒一寸一寸潛入，才會在這處掘出歷史的遺骸，在那處聞到文學的鹹味。然而越深探，我卻越不知所措⋯⋯
 draft: false
 isCJKLanguage: true
-menu: ""
 share: true
 slug: 17-07-no-longer-tourist-kamakura
 tags:

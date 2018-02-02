@@ -7,7 +7,7 @@ comments: false
 date: 2017-04-12
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 最近迷上了聽書。不是「天橋下說書的」講的那種，那種我這輩子從沒見過，更沒聽過。我知道的天橋下從來就沒有說書人，要說究竟有什麼呢？大概是堆著雜物或停了速克達吧。
 share: true
 slug: 17-04-read-with-ears
 tags:

@@ -8,7 +8,6 @@ description: 因為想看富士山，所以查了查JR周遊券的涵蓋範圍�
 draft: false
 image: images/2017/17-12-kawaguchi-miscanthus.png
 isCJKLanguage: true
-menu: ""
 share: true
 slug: 17-12-lake-kawaguchi
 tags:

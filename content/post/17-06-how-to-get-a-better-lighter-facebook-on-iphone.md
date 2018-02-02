@@ -7,7 +7,8 @@ comments: false
 date: 2017-06-15
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 作為一個內容都要另外從網路取得的平台，Facebook不可思議地肥大。
+
 share: true
 slug: 17-06-how-to-get-a-better-lighter-facebook-on-iphone
 tags:

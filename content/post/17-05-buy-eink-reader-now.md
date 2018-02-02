@@ -7,7 +7,7 @@ comments: false
 date: 2017-05-12
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 事實很簡單：每個人都需要一台電子書閱讀器，尤其是搭載電子墨水的那種。讓我告訴你為什麼。
 share: true
 slug: 17-05-buy-eink-reader-now
 tags:

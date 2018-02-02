@@ -7,7 +7,7 @@ comments: false
 date: 2017-06-19
 draft: false
 isCJKLanguage: true
-menu: ""
+description: 一旦取得電子書檔案，管理方式便可憑個人喜好，只要記得檔案存在哪，要找的時候找得到就好了。最陽春的方法是開個資料夾，把所有的書都丟在裡面。可是這種方法雖然簡單可靠，但放久了恐怕會忘記自己究竟有哪些書，甚至根本不會想到要去找。
 share: true
 slug: 17-06-how-to-manage-ebooks
 tags:
